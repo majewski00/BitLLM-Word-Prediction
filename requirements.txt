@@ -1,6 +1,5 @@
 torch
 einops
-zetascale
 sentencepiece
 datasets
 matplotlib
